@@ -1,0 +1,15 @@
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\bin\Debug\net6.0\EjerPOO.exe
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\bin\Debug\net6.0\EjerPOO.deps.json
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\bin\Debug\net6.0\EjerPOO.runtimeconfig.json
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\bin\Debug\net6.0\EjerPOO.dll
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\bin\Debug\net6.0\EjerPOO.pdb
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.csproj.AssemblyReference.cache
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.AssemblyInfoInputs.cache
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.AssemblyInfo.cs
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.csproj.CoreCompileInputs.cache
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.dll
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\refint\EjerPOO.dll
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.pdb
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\EjerPOO.genruntimeconfig.cache
+C:\Users\sebar\Desktop\FACU_3\Programacion\Ejer4\EjerPOO\EjerPOO\obj\Debug\net6.0\ref\EjerPOO.dll
